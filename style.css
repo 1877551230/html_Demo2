@@ -1,0 +1,23 @@
+body{
+			background-image: url("./images/2.jpg")
+	}
+	h1{
+	text-align:center;
+	color:white;
+	}
+	h2{
+	margin-left:60%
+	color:white;
+	}
+	p{
+	text-indent:32px;
+	font-size:20px;
+	line-height:32px;
+	color:white;
+	left-side:10%;
+	}
+	img{
+	position:absolute;
+	left:50%;
+	margin-left:-181px;
+	}
